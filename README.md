@@ -2,6 +2,8 @@
 
 Data exploration on Ohio birth weights from 2006-2017.
 
+---
+
 ## Introduction/ Motivation
 
 Low birth weight infants can experience critical medical complications. Investigating and identifying potential maternal and environmental risk factors could aid in making informed decisions on intervention methods. In this notebook, initial data exploration using popular Python packages is preformed.
@@ -9,19 +11,19 @@ Low birth weight infants can experience critical medical complications. Investig
 ## Purpose/ Emphasis
 
 The notebook emphasizes the following skills:
-  * Reading in data and creating dataframes with _Pandas_.
+  * Reading in data and creating DataFrames with _Pandas_.
   * Cleaning, relabelling, and organizing data for presentation with _Pandas_ and _NumPy_.
   * Creating and fine-tuning various plots using _Matplotlib_.
   * Representing geographical data through _Plotly_.
   * Inferring and drawing conclusions from data.
 
-**Note:** Code is written with the intention of notebook cells to run without dependency on previous cells after initial dataframe construction. This is in hopes of users copying and modifying plot attributes for their own projects without much hassle.
+**Note:** Code is written with the intention of notebook cells to run without dependency on previous cells after initial DataFrame construction. This is in hopes of users copying and modifying plot attributes for their own projects without much hassle.
 
 ---
 
 ## Prerequisites
 
-The following interface/ packages are neccessary for proper function:
+The following interface/ packages are necessary for proper function:
 
 Requirement | Version
 ------------|--------
@@ -50,7 +52,7 @@ County-specific data can be found in the following csv file:
 - `ohio_county_data`
   - FIPS codes for Ohio counties - used for plotting county-specific data. 
   
-Both Department of Health datasets classify births as either **low birth weight** (<2500g) or **normal birth weight** (2500g+) and are further seperated by year and county name.
+Both Department of Health datasets classify births as either **low birth weight** (<2500g) or **normal birth weight** (2500g+) and are further separated by year and county name.
 
 Further information about the birth data used in this notebook can be found [here](https://discovery.smartcolumbusos.com/?q=health). The use and redistribution of this data is allowable under _Creative Commons Attribution License_ (cc-by). There is no affiliation with the _Ohio Department of Health_.
 
@@ -60,7 +62,7 @@ FIPS codes used in `ohio_county_data` can be found [here](https://www.nrcs.usda.
 
 ## Cloning
 
-Clone this repo to your computer with https://github.com/chalvarado96/ohio-birth-weights/.
+Clone this repo to your computer [here](https://github.com/chalvarado96/ohio-birth-weights/).
 
 ---
 
