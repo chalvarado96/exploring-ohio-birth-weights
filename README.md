@@ -1,16 +1,16 @@
-# ohio-birth-weights
+# exploring-ohio-birth-weights
 
 Data exploration on Ohio birth weights from 2006-2017.
 
 ---
 
-## Introduction/ Motivation
+## Introduction
 
 Low birth weight infants can experience critical medical complications. Investigating and identifying potential maternal and environmental risk factors could aid in making informed decisions on intervention methods. In this notebook, initial data exploration using popular Python packages is preformed.
 
 ---
 
-## Purpose/ Emphasis
+## Emphasis
 
 The notebook emphasizes the following skills:
   * Reading in data and creating DataFrames with _Pandas_.
@@ -19,13 +19,11 @@ The notebook emphasizes the following skills:
   * Representing geographical data through _Plotly_.
   * Inferring and drawing conclusions from data.
 
-**Note:** Code is written with the intention of notebook cells to run without dependency on previous cells after initial DataFrame construction. This is in hopes of users copying and modifying plot attributes for their own projects without much hassle.
-
 ---
 
 ## Prerequisites
 
-The following interface/ packages are necessary for proper function:
+The following interface/ packages are reccomended for proper function:
 
 Requirement | Version
 ------------|--------
@@ -64,7 +62,7 @@ FIPS codes used in `ohio_county_data` can be found [here](https://www.nrcs.usda.
 
 ## Cloning
 
-Clone this repo to your computer [here](https://github.com/chalvarado96/ohio-birth-weights/).
+Clone this repo to your computer [here](https://github.com/chalvarado96/exploring-ohio-birth-weights/).
 
 ---
 
