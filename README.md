@@ -8,6 +8,8 @@ Data exploration on Ohio birth weights from 2006-2017.
 
 Low birth weight infants can experience critical medical complications. Investigating and identifying potential maternal and environmental risk factors could aid in making informed decisions on intervention methods. In this notebook, initial data exploration using popular Python packages is preformed.
 
+---
+
 ## Purpose/ Emphasis
 
 The notebook emphasizes the following skills:
