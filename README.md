@@ -2,6 +2,8 @@
 
 Data exploration on Ohio birth weights from 2006-2017.
 
+**For all plots to accurately render, download this repository to your local machine and view in Jupyter Notebook.**
+
 ---
 
 ## Introduction
@@ -23,7 +25,7 @@ The notebook emphasizes the following skills:
 
 ## Prerequisites
 
-This repository is written using [Python](https://www.python.org/) v3.7.4 and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/) v6.0.3.
+This repository is written using [Python](https://www.python.org/) v3.7.4 and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/) v6.0.3. 
 
 The following packages are reccomended for proper function:
 
