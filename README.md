@@ -14,7 +14,7 @@ Low birth weight infants can experience critical medical complications. Investig
 
 The notebook emphasizes the following skills:
   * Reading in data and creating DataFrames with _Pandas_.
-  * Cleaning, relabelling, and organizing data for presentation with _Pandas_ and _NumPy_.
+  * Cleaning, relabeling, and organizing data for presentation with _Pandas_ and _NumPy_.
   * Creating and fine-tuning various plots using _Matplotlib_.
   * Representing geographical data through _Plotly_.
   * Inferring and drawing conclusions from data.
@@ -23,17 +23,18 @@ The notebook emphasizes the following skills:
 
 ## Prerequisites
 
-The following interface/ packages are reccomended for proper function:
+This repository is written using [Python](https://www.python.org/) v3.7.4 and [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/) v6.0.3.
+
+The following packages are reccomended for proper function:
 
 Requirement | Version
 ------------|--------
-[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/) | 6.0.3
 [Pandas](https://pandas.pydata.org/) | 1.0.1
 [Matplotlib](https://matplotlib.org/) | 3.1.3
 [NumPy](https://numpy.org/) | 1.18.1
 [Plotly](https://plotly.com/python/getting-started/) | 4.5.0
 
-Installation instructions for these modules can be found through their respective documentation.
+Installation instructions for these packages can be found in their respective documentation.
 
 ---
 
@@ -62,7 +63,7 @@ FIPS codes used in `ohio_county_data` can be found [here](https://www.nrcs.usda.
 
 ## Cloning
 
-Clone this repo to your computer [here](https://github.com/chalvarado96/exploring-ohio-birth-weights/).
+Clone this repository to your computer [here](https://github.com/chalvarado96/exploring-ohio-birth-weights/).
 
 ---
 
