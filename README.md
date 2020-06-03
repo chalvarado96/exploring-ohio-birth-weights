@@ -2,7 +2,7 @@
 
 Data exploration on Ohio birth weights from 2006-2017.
 
-**For all plots to accurately render, download this repository to your local machine and view in Jupyter Notebook.**
+**View the properly rendered notebook with *nbviewer* [here](https://nbviewer.jupyter.org/github/chalvarado96/exploring-ohio-birth-weights/blob/master/exploring_ohio_birth_weights.ipynb).**
 
 ---
 
