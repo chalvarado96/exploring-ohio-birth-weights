@@ -2,7 +2,7 @@
 
 Data exploration on Ohio birth weights from 2006-2017.
 
-**View the properly rendered notebook with *nbviewer* [here](https://nbviewer.jupyter.org/github/chalvarado96/exploring-ohio-birth-weights/blob/master/exploring_ohio_birth_weights.ipynb).**
+**View the properly rendered notebook with *nbviewer* [here](https://nbviewer.jupyter.org/github/chance-alvarado/exploring-ohio-birth-weights/blob/master/exploring_ohio_birth_weights.ipynb).**
 
 ---
 
@@ -65,7 +65,7 @@ FIPS codes used in `ohio_county_data` can be found [here](https://www.nrcs.usda.
 
 ## Cloning
 
-Clone this repository to your computer [here](https://github.com/chalvarado96/exploring-ohio-birth-weights/).
+Clone this repository to your computer [here](https://github.com/chance-alvarado/exploring-ohio-birth-weights/).
 
 ---
 
@@ -73,7 +73,7 @@ Clone this repository to your computer [here](https://github.com/chalvarado96/ex
 
 - **Chance Alvarado** 
     - [LinkedIn](https://www.linkedin.com/in/chance-alvarado/)
-    - [Github](https://github.com/chalvarado96/)
+    - [Github](https://github.com/chance-alvarado/)
 
 ---    
 
