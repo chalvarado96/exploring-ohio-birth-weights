@@ -73,7 +73,7 @@ Clone this repository to your computer [here](https://github.com/chance-alvarado
 
 - **Chance Alvarado** 
     - [LinkedIn](https://www.linkedin.com/in/chance-alvarado/)
-    - [Github](https://github.com/chance-alvarado/)
+    - [GitHub](https://github.com/chance-alvarado/)
 
 ---    
 
