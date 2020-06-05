@@ -11,7 +11,7 @@ Explore this repository at:
 Author:
     Chance Alvarado
         LinkedIn: https://www.linkedin.com/in/chance-alvarado/
-        Github: https://github.com/chance-alvarado/
+        GitHub: https://github.com/chance-alvarado/
 """
 import pandas as pd
 import matplotlib.pyplot as plt
