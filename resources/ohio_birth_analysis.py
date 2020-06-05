@@ -6,12 +6,12 @@ and visualization of Ohio Health Department data on low birth weights in
 Ohio from 2006-2017.
 
 Explore this repository at:
-    https://github.com/chalvarado96/exploring-ohio-birth-weights
+    https://github.com/chance-alvarado/exploring-ohio-birth-weights
 
 Author:
     Chance Alvarado
         LinkedIn: https://www.linkedin.com/in/chance-alvarado/
-        Github: https://github.com/chalvarado96/
+        Github: https://github.com/chance-alvarado/
 """
 import pandas as pd
 import matplotlib.pyplot as plt
